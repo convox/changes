@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/docker/docker/pkg/fileutils"
+	"github.com/moby/moby/pkg/fileutils"
 )
 
 type Change struct {

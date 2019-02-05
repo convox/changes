@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/convox/praxis/changes"
+	"github.com/convox/changes"
 )
 
 func main() {
